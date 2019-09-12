@@ -1,0 +1,22 @@
+{
+  "mysqlDS": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "example",
+    "password": "root",
+    "name": "mysqlDS",
+    "user": "root",
+    "connector": "mysql"
+  },
+  "transient": {
+    "name": "transient",
+    "connector": "other"
+  },
+  "db": {
+    "name": "db",
+    "localStorage": "",
+    "file": "",
+    "connector": "memory"
+  }
+}
